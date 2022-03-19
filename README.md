@@ -1,0 +1,1 @@
+# MADHUSRI-stack-amplifyapp
